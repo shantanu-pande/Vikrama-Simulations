@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+# CoolProp (optional - required only for higher-fidelity CO2 real-gas properties)
+# If you want real-gas properties and have a suitable build environment, install manually:
+# pip install CoolProp
