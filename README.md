@@ -1,3 +1,5 @@
+![Simulation Results](Figure_1.png)
+
 Title: CO₂/Air Compression-Based ESS — Technical Feasibility and System Behavior (Simulation)
 
 What this document covers
